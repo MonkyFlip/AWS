@@ -129,5 +129,3 @@ sudo chmod -R 775 /var/www/laravel/storage /var/www/laravel/bootstrap/cache
 ## **10. Acceder a la aplicación**
 - HTTP: 🔗 `http://tu-ip-publica`
 - HTTPS: 🔗 `https://tu-ip-publica` *(ignora la advertencia del certificado autofirmado)*
-
-Esta guia esta inspirada por "richie20502"
